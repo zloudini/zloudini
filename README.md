@@ -1,6 +1,6 @@
 # Hi, I'm Zak
 
-I’m a recent graduate of the University of Pennsylvania’s **MCIT program**, with a background in **economics and finance**. Currently, I work as an Internal Wholesaler at Principal Financial Group, and I’m transitioning into a technical engineering role where I can apply my programming and problem-solving skills at scale.  
+I’m a recent graduate of the University of Pennsylvania’s **MCIT program**, with a background in **economics and finance**. Currently, I work as an Internal Wholesaler at Principal Financial Group, and I’m looking to transition into a technical engineering role where I can apply my programming and problem-solving skills at scale.  
 
 ## Featured Projects  
 Here are a few projects I’ve worked on that showcase my technical skills and problem-solving ability:  
