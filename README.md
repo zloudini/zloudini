@@ -1,4 +1,4 @@
-# Hi, I'm Zakaria Loudini
+# Hi, I'm Zak
 
 I’m a recent graduate of the University of Pennsylvania’s **MCIT program**, with a background in **economics and finance**. Currently, I work as an Internal Wholesaler at Principal Financial Group, and I’m transitioning into a technical engineering role where I can apply my programming and problem-solving skills at scale.  
 
@@ -15,9 +15,8 @@ Here are a few projects I’ve worked on that showcase my technical skills and p
   Developing a backtesting framework that combines momentum-based signals with sentiment analysis from earnings call transcripts to generate long/short trading strategies. Built with Python (pandas, NumPy, NLTK).  
 
 ## Skills and Tools  
-- **Languages:** Python, C++, JavaScript, SQL  
-- **Core Skills:** Distributed Systems, Algorithms & Data Structures, Database Design, Machine Learning, Backtesting  
-- **Tools/Frameworks:** NS3, Pandas, NumPy, Git, VSCode  
+- **Languages:** Python, C++, JavaScript, SQL
+- **Coursework:** Data Structures and Algorithms, Computer Systems, Artificial Intelligences, Computer and Network Security, Databases, Networked Systems
 
 ## Let’s Connect  
-- LinkedIn: [linkedin.com/in/zakaria-loudini](https://www.linkedin.com/in/zakaria-loudini)  
+- [LinkedIn](https://www.linkedin.com/in/zakaria-loudini)  
