@@ -1,22 +1,34 @@
 # Hi, I'm Zak
 
-I’m a recent graduate of the University of Pennsylvania’s **MCIT program**, with a background in **economics and finance**. Currently, I work as an Internal Wholesaler at Principal Financial Group, and I’m looking to transition into a technical engineering role where I can apply my programming and problem-solving skills at scale.  
+I’m a graduate of the University of Pennsylvania’s **Master of Computer and Information Technology (MCIT)** program, with a background in economics and finance.
 
-## Featured Projects  
-Here are a few projects I’ve worked on that showcase my technical skills and problem-solving ability:  
+Currently, I work as an Internal Wholesaler at **Principal Financial Group**. I’m transitioning into software engineering, with interests in AI applications, distributed systems, and data-intensive products.
 
-- [**PennSearch: Chord DHT and Distributed Search Engine**](https://github.com/zloudini/PennSearch-Chord-DHT)  
-  Implemented a full Chord Distributed Hash Table (DHT) in C++ within the NS3 simulator, extended with a distributed search layer (PennSearch) supporting multi-keyword queries. Focused on consistency, scalability, and peer-to-peer resilience.  
+## Featured Projects
 
-- [**BookBase**](https://github.com/zloudini/BookBase)  
-  Designed and implemented a database-backed book search and recommendation platform with keyword search, ranking, and gallery view. Built as part of a larger system design course, demonstrating database modeling and efficient query design.  
+### ThreadWise
+Developing an AI-powered fashion discovery and outfit recommendation application as a personal project. Building visual and text-based discovery, personalized recommendations, and an interactive user experience, alongside supporting catalog and inventory data workflows.
 
-- **Quant Backtesting System (in progress)**  
-  Developing a backtesting framework that combines momentum-based signals with sentiment analysis from earnings call transcripts to generate long/short trading strategies. Built with Python (pandas, NumPy, NLTK).  
+**Focus:** AI applications · Personalization · End-to-end product development
 
-## Skills and Tools  
+### [PennSearch: Chord DHT & Distributed Search Engine](https://github.com/zloudini/PennSearch-Chord-DHT)
+Implemented a Chord Distributed Hash Table in **C++** using the **ns-3 simulator**, then built a distributed search layer supporting multi-keyword queries. Explored consistency, scalability, and resilience in peer-to-peer systems.
+
+**Focus:** Distributed systems · Networking · Search
+
+### [BookBase](https://github.com/zloudini/BookBase)
+Designed and implemented a database-backed book search and recommendation platform with keyword search, ranked results, and a gallery view. Applied database modeling and efficient query design to support discovery.
+
+**Focus:** Databases · Query design · Application development
+
+## Technical Background
+
 - **Languages:** Python, C++, JavaScript, SQL
-- **Coursework:** Data Structures and Algorithms, Computer Systems, Artificial Intelligences, Computer and Network Security, Databases, Networked Systems
+- **Coursework:** Data Structures and Algorithms, Computer Systems, Artificial Intelligence, Computer and Network Security, Databases, Networked Systems
+- **Additional background:** Economics, finance, and client-facing communication
 
-## Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/zakaria-loudini)  
+## Let’s Connect
+
+I’m interested in software engineering opportunities where I can build reliable systems and solve challenging technical problems.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/zakaria-loudini)
